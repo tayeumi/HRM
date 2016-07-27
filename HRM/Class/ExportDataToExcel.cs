@@ -702,8 +702,8 @@ namespace HRM.Class
            }
            catch (Exception exx)
            {
-               string Error = exx.ToString();
-
+               string Error = exx.Message;
+               MessageBox.Show(Error);
            }
        }
         #endregion

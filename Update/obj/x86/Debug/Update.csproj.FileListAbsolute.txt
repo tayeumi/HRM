@@ -20,7 +20,6 @@ E:\HRM Project\HRM\Update\obj\x86\Debug\Update.csprojResolveAssemblyReference.ca
 E:\DEV\HRM\HRM\Update\bin\Debug\Update.exe.config
 E:\DEV\HRM\HRM\Update\bin\Debug\Update.exe
 E:\DEV\HRM\HRM\Update\bin\Debug\Update.pdb
-E:\DEV\HRM\HRM\Update\obj\x86\Debug\Update.csprojResolveAssemblyReference.cache
 E:\DEV\HRM\HRM\Update\obj\x86\Debug\Update.Update.resources
 E:\DEV\HRM\HRM\Update\obj\x86\Debug\Update.Properties.Resources.resources
 E:\DEV\HRM\HRM\Update\obj\x86\Debug\Update.csproj.GenerateResource.Cache
