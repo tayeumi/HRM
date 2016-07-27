@@ -1,0 +1,281 @@
+E:\HRM Project\HRM\IT_Pro\bin\Debug\HRM.exe.config
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Properties.Resources.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\ResGen.read.1.tlog
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\ResGen.write.1.tlog
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.exe.licenses
+E:\HRM Project\HRM\IT_Pro\bin\Debug\HRM.exe
+E:\HRM Project\HRM\IT_Pro\bin\Debug\HRM.pdb
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.exe
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.pdb
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmCVBanGiaoLinhKien.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmCVBanGiaoThietBi.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmCVDoiMayTinh.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmCVGhiNhanYeuCau.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmCVKichHoatTongDai.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmCVLapPhieuYCSuaChua.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmCVLapPhieuYeuCau.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmCVSuLyYeuCau.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmCVXuLyYeuCauSuaChua.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmDanhMucLinhKien.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmDanhMucLinhKien_Edit.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmCapNhatDanhSachMayTinh.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmMayViTinh.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmMayViTinh_ChiTiet.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmMayViTinh_info.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmMTDanhMucLinhKienPhongIT.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmNhaCungCap.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmNhaCungCap_Edit.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmNVCapCodeDienThoai.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmNVChinhSachHeThong.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmNVChiTietNhanVien.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmNVChuyenNhanVien.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmNVQuanLyNhanVien.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmNVThemNhanVien.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmNVQuanLyPhongBan.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmNVThemNhanVien_Import.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmPhanQuyen.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmPopupThongBaoMoi.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmThongKeNhanVien.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmTimKiemDL.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Forms.frmTinhTrang.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.frmAbout.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.frmCauHinh.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.frmDangNhap.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.frmDoiMatKhau.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.frmMain.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.frmintro.resources
+E:\HRM Project\HRM\IT_Pro\obj\x86\Debug\HRM.Reports.R_BanGiaoThietBi.resources
+E:\HRM Project\HRM\HRM\bin\Debug\HRM.exe
+E:\HRM Project\HRM\HRM\bin\Debug\HRM.pdb
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmPhanQuyen.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmPopupThongBaoMoi.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.frmAbout.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.frmCauHinh.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.frmDangNhap.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.frmDoiMatKhau.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.frmMain.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.frmintro.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Properties.Resources.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.exe.licenses
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.exe
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.pdb
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucChuongTrinh.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucChucVu.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmCapNhatNhanVien.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucBangCap.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMuc_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucChucVu_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucChuyenMon.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucQuocTich.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucDanToc.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucTonGiao.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucQuanHeGiaDinh.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucHocVan.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucTinHoc.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucNgoaiNgu.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucKyNang.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachPhongBan.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachPhongBan_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhom.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhom_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachChiNhanh.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachChiNhanh_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucTinh.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucBenhVien.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucBenhVien_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucTruongHoc.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_PhuCap.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmNguoiDung.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmPhanQuyen_DanhMuc.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmPhanQuyen_DanhMuc_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmNguoiDung_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmCongTy.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmBackup.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmRestore.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_LienHe.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmLog.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachHopDong.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachHopDong_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongLaoDong.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.reportThuMoiLamViec.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViec.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_KhenThuong.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_KhenThuong_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_KyLuat.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_KyLuat_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_DaoTao.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_DaoTao_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_ChucVu.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_ChucVu_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_Import.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmThongKe.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmThongKe_BieuDo.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.frmWaiting.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucCaLamViec.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucCaLamViec_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucKyHieuChamCong.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucKyHieuChamCong_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucThietBiChamCong.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucThietBiChamCong_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_KetNoi.resources
+E:\HRM Project\HRM\HRM\bin\Debug\Interop.zkemkeeper.dll
+E:\HRM Project\HRM\HRM\obj\x86\Debug\Interop.zkemkeeper.dll
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.csproj.ResolveComReference.cache
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_BangXepCa.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmThongKe_SinhNhat.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_ChamCongThang.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDangKyMaChamCong.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.csproj.GenerateResource.Cache
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_TongHop.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.reportBangChamCongTongHop.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.reportBangChamCongTongHop_30.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.reportBangChamCongTongHop_29.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.reportBangChamCongTongHop_28.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_ThayDoiViTriLamViec.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.reportPhuLucHopDongLaoDong.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_ThayDoiChucVu.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViec_DB.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.reportThuMoiLamViec_DB.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_BangXepCa_New.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmReportDesign.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.ReportToKhaiThamGiaBaoHiem.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_ChamCongThang_GhiChu.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.ReportQuyetDinhThoiViec.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_ThoiVu.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmCapNhatNhanVien_ThoiVu.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_ThoiVu_ChamCong.resources
+E:\HRM Project\HRM\HRM\bin\Debug\History\Help.txt
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmSystemHelp.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachHopDong_Season.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachHopDong_Season_Update.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThoiVu.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmReportDesign_HDLD.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Reports.ReportThoaThuanThoiViec.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmThongKe_DiTre.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChartControlPopup.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.Forms.frmThongKe_NgayPhep.resources
+E:\HRM Project\HRM\HRM\obj\x86\Debug\HRM.csprojResolveAssemblyReference.cache
+E:\DEV\HRM\HRM\HRM\bin\Debug\History\Help.txt
+E:\DEV\HRM\HRM\HRM\bin\Debug\HRM.exe
+E:\DEV\HRM\HRM\HRM\bin\Debug\HRM.pdb
+E:\DEV\HRM\HRM\HRM\bin\Debug\Interop.zkemkeeper.dll
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.csprojResolveAssemblyReference.cache
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\Interop.zkemkeeper.dll
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.csproj.ResolveComReference.cache
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmBackup.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmCapNhatNhanVien.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmCapNhatNhanVien_ThoiVu.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_BangXepCa.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_BangXepCa_New.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_ChamCongThang.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_ChamCongThang_GhiChu.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_KetNoi.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChamCong_TongHop.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmChartControlPopup.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmCongTy.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDangKyMaChamCong.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucBangCap.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucBenhVien.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucBenhVien_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucCaLamViec.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucCaLamViec_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucChucVu.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucChucVu_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucChuongTrinh.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucChuyenMon.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucDanToc.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucHocVan.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucKyHieuChamCong.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucKyHieuChamCong_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucKyNang.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucNgoaiNgu.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucQuanHeGiaDinh.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucQuocTich.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucThietBiChamCong.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucThietBiChamCong_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucTinh.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucTinHoc.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucTonGiao.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMucTruongHoc.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhMuc_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachChiNhanh.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachChiNhanh_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachHopDong.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachHopDong_In.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachHopDong_Season.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachHopDong_Season_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachHopDong_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_Import.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_LienHe.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_PhuCap.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_ThayDoiChucVu.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_ThayDoiViTriLamViec.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_ThoiVu.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhanVien_ThoiVu_ChamCong.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhom.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachNhom_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachPhongBan.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmDanhSachPhongBan_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmLog.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmNguoiDung.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmNguoiDung_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmPhanQuyen.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmPhanQuyen_DanhMuc.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmPhanQuyen_DanhMuc_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmPopupThongBaoMoi.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_ChucVu.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_ChucVu_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_DaoTao.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_DaoTao_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_KhenThuong.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_KhenThuong_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_KyLuat.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmQuaTrinhLamViec_KyLuat_Update.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmReportDesign.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmReportDesign_HDLD.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmRestore.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmSystemHelp.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmThongKe.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmThongKe_BieuDo.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmThongKe_DiTre.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmThongKe_NgayPhep.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmThongKe_SinhNhat.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.frmAbout.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.frmCauHinh.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.frmDangNhap.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.frmDoiMatKhau.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.frmMain.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.frmWaiting.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.frmintro.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Properties.Resources.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportBangChamCongTongHop.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportBangChamCongTongHop_28.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportBangChamCongTongHop_29.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportBangChamCongTongHop_30.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongLaoDong_DL.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThoiVu.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThoiVu_DL.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViec.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongLaoDong.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViec_DB.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViec_DL.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportPhuLucHopDongLaoDong.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.ReportQuyetDinhThoiViec.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.ReportThoaThuanThoiViec.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportThuMoiLamViec.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportThuMoiLamViec_DB.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportThuMoiLamViec_DL.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.ReportToKhaiThamGiaBaoHiem.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.csproj.GenerateResource.Cache
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.exe.licenses
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.exe
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.pdb
+C:\HEAD\HRM\obj\x86\Debug\Interop.zkemkeeper.dll
+C:\HEAD\HRM\obj\x86\Debug\HRM.csproj.ResolveComReference.cache
+C:\HEAD\HRM\obj\x86\Debug\HRM.exe
+C:\HEAD\HRM\obj\x86\Debug\HRM.pdb

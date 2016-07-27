@@ -1,0 +1,12 @@
+﻿- Phần mềm sử dụng giao diện : DEvExpress
+- Sử dụng thư viện chấm công vân tay : http://hfc.lbc.com.vn/tool/update/HRM/Interop.zkemkeeper.dll
+									64bit: http://hfc.lbc.com.vn/tool/update/HRM/Ext/23032011141209zkemsdk_x64.zip					
+									Win7 : http://hfc.lbc.com.vn/tool/update/HRM/Ext/23032011142406zkemsdk_win7.zip
+- Đăng ký Dll:
+				echo off
+				copy *.dll C:\WINDOWS\system32\*.dll
+				regsvr32.exe  C:\WINDOWS\system32\zkemkeeper.dll
+				exit
+				copy zkemkeeper.dll c:\windows\syswow64\zkemkeeper.dll
+				regsvr32.exe  c:\windows\syswow64\zkemkeeper.dll
+				exit

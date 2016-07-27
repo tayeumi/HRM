@@ -1,0 +1,73 @@
+﻿* 08/08/2012 - Hoàn thành test Phần Add control và gọi control cho form DanhMucChuongTrinh
+* 09/08/2012 - Điều chỉnh hiện thị control Dock: Fill
+             - Load Dữ liệu Chức vụ
+* 10/08/2012 - Hoàn thiện thêm, xóa, sửa Danh mục :
+				+ Danh mục chức vụ
+				+ Danh mục chuyên môn
+				+ Danh mục bằng cấp
+				+ Danh mục quốc tịch
+				+ Danh mục dân tộc
+				+ Danh mục tôn giáo
+				+ Danh mục Quan hệ gia đình
+				+ Danh mục học vấn
+				+ Danh mục Ngoại ngữ
+				+ Danh mục tin học
+				+ Danh mục kỹ năng
+* 13/08/2012 - Hoàn thiện thêm, xóa, sửa phòng ban
+				- Thiết kế form thêm nhân viên
+* 14/08/2012 - Thiết kế form thêm nhân viên( tiếp )
+* 15/08/2012 - Kết nối Call thông tin nhân viên
+* 20/08/2012 - Kết nối Call thông tin Công việc
+* 21/08/2012 - Hoàn thành kết nối thông tin nhân viên load lên form
+				Kế hoạch tiếp theo là Thiết kế class phần liên hệ gia đình
+* 22/08/2012 - Thiết kế và hoàn thiện form Nơi đào tạo
+			 - Khai báo biến trong class Nhân Viên
+			 - Thực hiện chức năng thêm nhân viên
+
+* 23/08/2012 - Thiết kế thêm store
+				+ SYS_USER_Get_Login
+				+ HRM_EMPLOYEE_Insert_Ta
+				+ HRM_EMPLOYEE_Update_Ta
+				+ thiết kế phân quyền sử dung phần mềm ( đang làm)
+* 24/08/2012 - Thiết kế lại phần quản lý tài khoản và phân quyền
+				+ tạo các script tạo table User
+				+ tạo các store cho phân hệ phân quyền
+				+ Hoàn thành phân hệ phân quyền
+* 27/08/2012    - Cập nhật phần thông tin công ty
+				- Viết code thêm phần thêm băng cấp.( thêm store xử lý )
+* 28/08/2012    - Viết Phần backup và restore Database cho Phần mềm ( Hoàn thành )
+				- viết phần xử lý thêm quan hệ gia đình
+* 29/08/2012	- Viết thêm phần xử lý backup vì dữ liệu Lưu tại SV nên không tạo đc file bk trực tiếp
+				+ giải pháp: 1. tạo folder backup trên sv.
+							 2. Share folder bk tại sv
+							 3. Thực hiện back trên sv rồi copy về client
+
+*30/08/2012   - thiết kế và xử lý phân hệ hợp đồng
+*30/08/2012   - thiết kế và xử lý phân hệ hợp đồng(tiếp)
+				+ thêm trong table HRM_CONTRACT 1 file ContractYear
+				+ tạo 1 proc HRM_CONTRACT_GetByYear.
+
+*4-9-2012		- Thiết kế report hợp đồng thử việc
+*6-9-2012		- Chỉnh sửa 1 it chổ tại report in hợp đồng.
+				- Hoàn thành Thêm, xóa, sửa thông tin liên hệ quan hệ gia đình.
+*13-9-2012		- Hoàn thành thêm, xóa sửa thông tin khen thưởng nhân viên
+				- Hoàn thành thêm, xóa sửa thông tin kỷ luật nhân viên
+				- Hoàn thành thêm, xóa sửa thông tin đào tạo
+				- Hoàn thành thêm, xóa sửa thông tin thay đổi chức vụ( chưa viết phần cập nhật thông tin nhân viên)
+*18-9-2012		- Hoàn thiện phần thiết kế báo cáo biểu đồ thống kê
+					= sửa lại store getSex cho biểu đồ
+*02-10-2012	    - Thêm phần xem hợp đồng theo HD Hiện tại, Hợp đồng đã hết hạn, Hơp đồng sắp hết hạn 30 ngày
+				- Thêm Alert control hiển thị popup thông tin nhân viên trong quản lý nhân viên
+				- thêm Hiển thị Waiting cho các form chức năng khi load
+*03-10-2012		- Hoàn thiện kết nối và insert dữ liệu từ máy chấm công
+				- Thiết kế danh mục chấm công:
+					- thêm ,xóa sửa thiết bị.
+					- thêm xóa sửa ca làm việc
+					- thêm xóa sửa ký hiệu chấm công
+*04-10-2012		- Hoàn thiện phần load dữ liệu chấm công tối ưu tốc độ sử dụng DataTable.select()
+				- Khởi tạo table và store Bảng xếp ca
+				- Đang thiết kế class cho bảng xếp ca
+*12-10-2012		Hoàn thành phần mềm phiên bản Final
+*13-3-2013		Fix phần nhập hợp đồng.
+*14-3-2013		Fix phần nhân viên đã nghỉ thì mới lưu giá trị ngày kết thúc
+* 20-5-2013		Thêm filed StopWork Luu lý do nghỉ việc
