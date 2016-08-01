@@ -185,6 +185,7 @@
             this.btnCallPrintThuMoi.Name = "btnCallPrintThuMoi";
             this.btnCallPrintThuMoi.Size = new System.Drawing.Size(216, 22);
             this.btnCallPrintThuMoi.Text = "Thư mời làm việc";
+            this.btnCallPrintThuMoi.Visible = false;
             this.btnCallPrintThuMoi.Click += new System.EventHandler(this.btnCallPrintThuMoi_Click);
             // 
             // btnCallPrintPhuLucHopDong

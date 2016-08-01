@@ -785,6 +785,18 @@
     <Compile Include="Reports\reportHopDongLaoDong.Designer.cs">
       <DependentUpon>reportHopDongLaoDong.cs</DependentUpon>
     </Compile>
+    <Compile Include="Reports\reportHopDongThuViecDL_01082016.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\reportHopDongThuViecDL_01082016.Designer.cs">
+      <DependentUpon>reportHopDongThuViecDL_01082016.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\reportHopDongThuViec_01082016.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\reportHopDongThuViec_01082016.Designer.cs">
+      <DependentUpon>reportHopDongThuViec_01082016.cs</DependentUpon>
+    </Compile>
     <Compile Include="Reports\reportHopDongThuViec_DB.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -1132,6 +1144,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\reportHopDongLaoDong.resx">
       <DependentUpon>reportHopDongLaoDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\reportHopDongThuViecDL_01082016.resx">
+      <DependentUpon>reportHopDongThuViecDL_01082016.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\reportHopDongThuViec_01082016.resx">
+      <DependentUpon>reportHopDongThuViec_01082016.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\reportHopDongThuViec_DB.resx">
       <DependentUpon>reportHopDongThuViec_DB.cs</DependentUpon>

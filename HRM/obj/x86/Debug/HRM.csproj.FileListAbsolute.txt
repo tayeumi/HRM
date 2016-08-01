@@ -278,3 +278,6 @@ E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.exe.licenses
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.pdb
 E:\DEV\HRM\HRM\HRM\bin\Debug\HRM.pdb
 E:\DEV\HRM\HRM\HRM\bin\Debug\Interop.zkemkeeper.dll
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.csprojResolveAssemblyReference.cache
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViec_01082016.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViecDL_01082016.resources
