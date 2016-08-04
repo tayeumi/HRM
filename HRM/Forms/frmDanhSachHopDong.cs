@@ -423,13 +423,13 @@ namespace HRM.Forms
                          // kiem tra xem neu la HD HKtri ky thi dung report_DL
                          if (dt.Rows[0]["Signer"].ToString().ToLower() == "hồ kim trí")
                          {
-                             Reports.reportHopDongThuViecDL_01082016 rp = new Reports.reportHopDongThuViecDL_01082016(dt);
+                             Reports.reportHopDongThuViecDL_01082016 rp = new Reports.reportHopDongThuViecDL_01082016(dt, totalSalary, totalTestSalary);
                              rp.DataSource = dt;
                              rp.ShowPreviewDialog();
                          }
                          else
                          {
-                             Reports.reportHopDongThuViec_01082016 rp = new Reports.reportHopDongThuViec_01082016(dt);
+                             Reports.reportHopDongThuViec_01082016 rp = new Reports.reportHopDongThuViec_01082016(dt, totalSalary, totalTestSalary);
                              rp.DataSource = dt;
                              rp.ShowPreviewDialog();
                              // rp.ShowDesigner();
@@ -439,7 +439,7 @@ namespace HRM.Forms
                      {
                          if (dt.Rows[0]["Signer"].ToString().ToLower() == "hồ kim trí")
                          {
-                             Reports.reportHopDongThuViecDL_01082016 rp = new Reports.reportHopDongThuViecDL_01082016(dt);
+                             Reports.reportHopDongThuViecDL_01082016 rp = new Reports.reportHopDongThuViecDL_01082016(dt, totalSalary, totalTestSalary);
                              rp.DataSource = dt;
                              rp.ShowPreviewDialog();
                          }
@@ -448,7 +448,7 @@ namespace HRM.Forms
                              //Reports.reportHopDongThuViec rp = new Reports.reportHopDongThuViec(dt, totalSalary, totalTestSalary);
                              //rp.DataSource = dt;
                              //rp.ShowPreviewDialog();
-                             Reports.reportHopDongThuViec_01082016 rp = new Reports.reportHopDongThuViec_01082016(dt);
+                             Reports.reportHopDongThuViec_01082016 rp = new Reports.reportHopDongThuViec_01082016(dt, totalSalary, totalTestSalary);
                              rp.DataSource = dt;
                              rp.ShowPreviewDialog();
                             //  rp.ShowDesigner();
@@ -466,7 +466,7 @@ namespace HRM.Forms
                  { // kiem tra xem neu la HD HKtri ky thi dung report_DL
                      if (dt.Rows[0]["Signer"].ToString().ToLower() == "hồ kim trí")
                      {
-                         Reports.reportHopDongThuViecDL_01082016 rp = new Reports.reportHopDongThuViecDL_01082016(dt);
+                         Reports.reportHopDongThuViecDL_01082016 rp = new Reports.reportHopDongThuViecDL_01082016(dt, totalSalary, totalTestSalary);
                          rp.DataSource = dt;
                          rp.ShowPreviewDialog();
                      }
@@ -477,7 +477,7 @@ namespace HRM.Forms
                          //rp.DataSource = dt;
                          //rp.ShowPreviewDialog();
 
-                         Reports.reportHopDongThuViec_01082016 rp = new Reports.reportHopDongThuViec_01082016(dt);
+                         Reports.reportHopDongThuViec_01082016 rp = new Reports.reportHopDongThuViec_01082016(dt, totalSalary, totalTestSalary);
                          rp.DataSource = dt;
                          rp.ShowPreviewDialog();
                          // rp.ShowDesigner();

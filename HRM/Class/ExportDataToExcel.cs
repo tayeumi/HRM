@@ -430,6 +430,7 @@ namespace HRM.Class
            ReportFile.Visible = false;
            Microsoft.Office.Interop.Excel._Workbook WorkBook;
            //Microsoft.Office.Interop.Excel.Range chartRange;
+           string fail = "";
            try
            {
                if (sfilename != "")
@@ -665,8 +666,11 @@ namespace HRM.Class
                {
                    Microsoft.Office.Interop.Excel._Worksheet SheetName = (Microsoft.Office.Interop.Excel._Worksheet)WorkBook.Worksheets[iii];
                    string _sheetname = SheetName.Name;
+                   fail = _sheetname;
+                   if( _sheetname.Contains("(2)")){
                    _sheetname = _sheetname.Replace("(2)", "");
-                   SheetName.Name = _sheetname;
+                   SheetName.Name = _sheetname;                   
+                   }
                }
                //save file
                if (sfilename == "")
@@ -703,10 +707,10 @@ namespace HRM.Class
            catch (Exception exx)
            {
                string Error = exx.Message;
-               MessageBox.Show(Error);
+               MessageBox.Show(fail);
            }
        }
         #endregion
-
+     
     }
 }

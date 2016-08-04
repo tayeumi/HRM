@@ -15,7 +15,7 @@ namespace HRM.Reports
         {
             InitializeComponent();
         }
-        public reportHopDongThuViecDL_01082016(DataTable dt)
+        public reportHopDongThuViecDL_01082016(DataTable dt, decimal totalSalary, decimal totalTestSalary)
         {
             InitializeComponent();
             if (dt.Rows[0]["GroupName"].ToString() == "")
@@ -25,6 +25,37 @@ namespace HRM.Reports
             else
             {
                 lblDepartment.Text = dt.Rows[0]["GroupName"].ToString();
+            }
+            xrtotalTestSalary.Text = totalTestSalary.ToString("#,#") + " VNĐ/ Tháng";
+            xrtotalSalary.Text = totalSalary.ToString("#,#") + " VNĐ/ Tháng";
+
+            if (dt.Rows[0]["Allowance"].ToString() == "")
+            {
+                txtAllowance.Text = "Theo cơ chế của công ty tại Chi nhánh";
+            }
+            else
+            {
+                if (decimal.Parse(dt.Rows[0]["Allowance"].ToString().Replace(",", "")) > 0)
+                {
+                    txtAllowance.Text = (decimal.Parse(dt.Rows[0]["Allowance"].ToString().Replace(",", ""))).ToString("#,#") + " VNĐ/ Tháng";
+                }
+            }
+
+            if (dt.Rows[0]["TestAllowance"].ToString() == "")
+            {
+                txtAllowance.Text = "Theo cơ chế của công ty tại Chi nhánh";
+            }
+            else
+            {
+                if (decimal.Parse(dt.Rows[0]["TestAllowance"].ToString().Replace(",", "")) > 0)
+                {
+                    txtTestAllowance.Text = (decimal.Parse(dt.Rows[0]["TestAllowance"].ToString().Replace(",", ""))).ToString("#,#") + " VNĐ/ Tháng";
+                }
+                else
+                {
+                    txtTestAllowance.Text = "Theo cơ chế của công ty tại Chi nhánh";
+
+                }
             }
         }
 

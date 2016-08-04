@@ -17,7 +17,7 @@ namespace HRM.Reports
             //DataTable dt = (DataTable)this.DataSource;
            // if(dt.Rows[0]["
         }
-        public reportHopDongThuViec_01082016(DataTable dt)
+        public reportHopDongThuViec_01082016(DataTable dt, decimal totalSalary, decimal totalTestSalary)
         {
             InitializeComponent();
             if (dt.Rows[0]["GroupName"].ToString() == "")
@@ -28,7 +28,8 @@ namespace HRM.Reports
             {
                 lblDepartment.Text = dt.Rows[0]["GroupName"].ToString();
             }
-
+            xrtotalTestSalary.Text = totalTestSalary.ToString("#,#") + " VNĐ/ Tháng";
+            xrtotalSalary.Text = totalSalary.ToString("#,#") + " VNĐ/ Tháng";
         }
 
         private void reportHopDongThuViec_01082016_PrintProgress(object sender, DevExpress.XtraPrinting.PrintProgressEventArgs e)
