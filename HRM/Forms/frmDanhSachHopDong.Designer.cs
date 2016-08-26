@@ -132,7 +132,7 @@
             this.toolStripMenuItem1,
             this.inToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(178, 98);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(178, 76);
             this.contextMenuStrip1.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip1_Opening);
             // 
             // btnCallThemHD
@@ -176,7 +176,7 @@
             this.btnCallPrintThuViec.Image = global::HRM.Properties.Resources.Action_Chart_Printing_Preview;
             this.btnCallPrintThuViec.Name = "btnCallPrintThuViec";
             this.btnCallPrintThuViec.Size = new System.Drawing.Size(216, 22);
-            this.btnCallPrintThuViec.Text = "Thỏa thuận thử việc";
+            this.btnCallPrintThuViec.Text = "Hợp đồng thử việc";
             this.btnCallPrintThuViec.Click += new System.EventHandler(this.btnCallPrintThuViec_Click);
             // 
             // btnCallPrintThuMoi

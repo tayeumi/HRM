@@ -162,9 +162,10 @@ C:\HEAD\HRM\obj\x86\Debug\Interop.zkemkeeper.dll
 C:\HEAD\HRM\obj\x86\Debug\HRM.csproj.ResolveComReference.cache
 C:\HEAD\HRM\obj\x86\Debug\HRM.exe
 C:\HEAD\HRM\obj\x86\Debug\HRM.pdb
-E:\DEV\HRM\HRM\HRM\bin\Debug\HRM.exe
-E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.exe
 E:\DEV\HRM\HRM\HRM\bin\Debug\History\Help.txt
+E:\DEV\HRM\HRM\HRM\bin\Debug\HRM.exe
+E:\DEV\HRM\HRM\HRM\bin\Debug\HRM.pdb
+E:\DEV\HRM\HRM\HRM\bin\Debug\Interop.zkemkeeper.dll
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\Interop.zkemkeeper.dll
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.csproj.ResolveComReference.cache
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Forms.frmBackup.resources
@@ -264,6 +265,8 @@ E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThoiVu.resources
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThoiVu_DL.resources
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViec.resources
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongLaoDong.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViecDL_01082016.resources
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViec_01082016.resources
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViec_DB.resources
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViec_DL.resources
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportPhuLucHopDongLaoDong.resources
@@ -275,9 +278,6 @@ E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportThuMoiLamViec_DL.resources
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.ReportToKhaiThamGiaBaoHiem.resources
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.csproj.GenerateResource.Cache
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.exe.licenses
+E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.exe
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.pdb
-E:\DEV\HRM\HRM\HRM\bin\Debug\HRM.pdb
-E:\DEV\HRM\HRM\HRM\bin\Debug\Interop.zkemkeeper.dll
 E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.csprojResolveAssemblyReference.cache
-E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViec_01082016.resources
-E:\DEV\HRM\HRM\HRM\obj\x86\Debug\HRM.Reports.reportHopDongThuViecDL_01082016.resources

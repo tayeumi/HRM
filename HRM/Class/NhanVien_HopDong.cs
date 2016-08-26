@@ -290,7 +290,7 @@ namespace HRM.Class
            dt.Rows[0]["Fullname"] = dt.Rows[0]["Fullname"].ToString().ToUpper();
            if (dt.Rows[0]["ContractTime"].ToString()!="Không xác định thời hạn")
            {
-               dt.Rows[0]["ContractType"] = dt.Rows[0]["ContractType"].ToString() +"( "+ dt.Rows[0]["ContractTime"].ToString() +" )";
+               dt.Rows[0]["ContractType"] = dt.Rows[0]["ContractType"].ToString() +" ("+ dt.Rows[0]["ContractTime"].ToString() +")";
                 DateTime _to_date=(DateTime)dt.Rows[0]["ToDate"];
                 string PrintTodate = "";
                 if (_to_date.Day.ToString().Length == 1)
@@ -693,7 +693,9 @@ namespace HRM.Class
                db.AddParameter("@IsCurrent", IsCurrent);
                db.ExecuteNonQueryWithTransaction("HRM_CONTRACT_Update");
                db.CommitTransaction();
-               Class.S_Log.Insert("Hợp Đồng", "Cập nhật Hợp đồng: " + ContractCode + " - Mã Nhân viên: " + EmployeeCode);
+               string log = ContractCode + "|" + EmployeeCode + "|" + ContractType + "|" + ContractTime + "|" + ContractYear + "|" + SignDate + "|" + FromDate + "|" + BasicSalary + "|" + Allowance + "|" + SecondAllowance + "|" + IsCurrent.ToString();
+
+               Class.S_Log.Insert("Hợp Đồng", "Cập nhật Hợp đồng: " + log);
                return true;
            }
            catch (Exception ex)

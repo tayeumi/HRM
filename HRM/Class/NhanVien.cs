@@ -1238,8 +1238,7 @@ namespace HRM.Class
                db.AddParameter("@EmployeeCode", EmployeeCode);
                db.AddParameter("@BranchCode", BranchCode);
                db.AddParameter("@DepartmentCode", DepartmentCode);
-               db.AddParameter("@GroupCode", GroupCode);
-              // db.AddParameter("@CandidateCode", "");
+               db.AddParameter("@GroupCode", GroupCode);              
                db.AddParameter("@EnrollNumber", EnrollNumber);
                db.AddParameter("@FirstName", FirstName);
                db.AddParameter("@LastName", LastName);
@@ -1272,14 +1271,8 @@ namespace HRM.Class
                db.AddParameter("@School", School);
                db.AddParameter("@IDCard", IDCard);
                db.AddParameter("@IDCardDate", IDCardDate);
-               db.AddParameter("@IDCardPlace", IDCardPlace);
-              // db.AddParameter("@IsTest", IsTest);
-             //  db.AddParameter("@TestTime", TestTime);
-              // db.AddParameter("@TestFromDate", TestFromDate);
-              // db.AddParameter("@TestToDate", TestToDate);
-              // db.AddParameter("@TestSalary", TestSalary);
-               db.AddParameter("@BeginDate", BeginDate);
-              // db.AddParameter("@IsOffWork", IsOffWork);
+               db.AddParameter("@IDCardPlace", IDCardPlace);             
+               db.AddParameter("@BeginDate", BeginDate);             
                if (Status == 3) // xu ly tinh trang neu nhan vien da nghi thi moi co ngay ket thuc. con ko nguoc lai
                {
                    db.AddParameter("@EndDate", EndDate);
@@ -1290,16 +1283,7 @@ namespace HRM.Class
                }
                db.AddParameter("@Health", Health);
                db.AddParameter("@Height", Height);
-               db.AddParameter("@Weight", Weight);
-             //  db.AddParameter("@PayForm", PayForm);
-             //  db.AddParameter("@PayMoney", PayMoney);
-             //  db.AddParameter("@MinimumSalary", MinimumSalary);
-             //  db.AddParameter("@RankSalary", RankSalary);
-             //  db.AddParameter("@StepSalary", StepSalary);
-           //    db.AddParameter("@CoefficientSalary", CoefficientSalary);
-            //   db.AddParameter("@DateSalary", DateSalary);
-            //   db.AddParameter("@BasicSalary", BasicSalary);
-            //   db.AddParameter("@InsuranceSalary", InsuranceSalary);
+               db.AddParameter("@Weight", Weight);             
                db.AddParameter("@Allowance1", Allowance1);
                db.AddParameter("@Allowance2", Allowance2);
                db.AddParameter("@Allowance3", Allowance3);
@@ -1344,12 +1328,7 @@ namespace HRM.Class
                db.AddParameter("@InsurancePlace", InsurancePlace);
                db.AddParameter("@HealthInsuranceCode", HealthInsuranceCode);
                db.AddParameter("@HealthInsuranceFromDate", HealthInsuranceFromDate);
-               db.AddParameter("@HealthInsuranceToDate", HealthInsuranceToDate);               
-               //db.AddParameter("@ContractCode", ContractCode);
-             //  db.AddParameter("@ContractType", ContractType);
-              // db.AddParameter("@ContractSignDate", ContractSignDate);
-             //  db.AddParameter("@ContractFromDate", ContractFromDate);
-             //  db.AddParameter("@ContractToDate", ContractToDate);
+               db.AddParameter("@HealthInsuranceToDate", HealthInsuranceToDate);
                db.AddParameter("@Province", Province);
                db.AddParameter("@Hospital", Hospital);
                db.AddParameter("@MilitaryCode", MilitaryCode);
@@ -1406,8 +1385,7 @@ namespace HRM.Class
                    db.ExecuteNonQueryWithTransaction("HRM_EMPLOYEE_DEACTIVE_Delete");
 
                    if (Status == 3) // 
-                   {
-                                           
+                   {                                           
                        db.CreateNewSqlCommand();
                        db.AddParameter("@DeActiveCode", StopWorkCode);
                        db.AddParameter("@EmployeeCode", EmployeeCode);
@@ -1423,7 +1401,22 @@ namespace HRM.Class
                db.CreateNewSqlCommand();
                db.ExecuteNonQueryWithTransaction("HRM_EMPLOYEE_Count");
                db.CommitTransaction();
-               Class.S_Log.Insert("Nhân viên", "Cập nhật Nhân viên: " + FirstName + " " + LastName);
+                // load lai danh sach va insert vao long tat ca thong tin         
+
+               DataTable dtlog = GetEmployeeByCode(EmployeeCode);
+               if(dtlog.Rows.Count>0){
+                   string log = "";
+                   for (int colum = 0; colum <dtlog.Columns.Count; colum++)
+                   {
+                       if(dtlog.Rows[0][colum]!=DBNull.Value){
+                           log +=dtlog.Columns[colum].ColumnName+":"+ dtlog.Rows[0][colum].ToString() + "|";
+                       }
+                   }
+                   Class.S_Log.Insert("Nhân viên", "Cập nhật Nhân viên: " + log);
+               }else{
+                Class.S_Log.Insert("Nhân viên", "Cập nhật Nhân viên: " + FirstName + " " + LastName);
+               }
+              
                return true;
            }
            catch (Exception ex)

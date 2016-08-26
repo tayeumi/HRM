@@ -71,24 +71,24 @@
             this.toolStripMenuItem1,
             this.btnCallClose});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(153, 76);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(116, 54);
             // 
             // btnCallHistory
             // 
             this.btnCallHistory.Name = "btnCallHistory";
-            this.btnCallHistory.Size = new System.Drawing.Size(152, 22);
+            this.btnCallHistory.Size = new System.Drawing.Size(115, 22);
             this.btnCallHistory.Text = "Load lại";
             this.btnCallHistory.Click += new System.EventHandler(this.btnCallHistory_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(149, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(112, 6);
             // 
             // btnCallClose
             // 
             this.btnCallClose.Name = "btnCallClose";
-            this.btnCallClose.Size = new System.Drawing.Size(152, 22);
+            this.btnCallClose.Size = new System.Drawing.Size(115, 22);
             this.btnCallClose.Text = "Thoát";
             this.btnCallClose.Click += new System.EventHandler(this.btnCallClose_Click);
             // 
@@ -106,6 +106,7 @@
             this.gridItemDetail.Name = "gridItemDetail";
             this.gridItemDetail.OptionsBehavior.Editable = false;
             this.gridItemDetail.OptionsCustomization.AllowRowSizing = true;
+            this.gridItemDetail.OptionsView.ColumnAutoWidth = false;
             this.gridItemDetail.OptionsView.RowAutoHeight = true;
             this.gridItemDetail.OptionsView.ShowAutoFilterRow = true;
             this.gridItemDetail.OptionsView.ShowGroupPanel = false;
@@ -167,7 +168,7 @@
             this.colDescription.Name = "colDescription";
             this.colDescription.Visible = true;
             this.colDescription.VisibleIndex = 4;
-            this.colDescription.Width = 463;
+            this.colDescription.Width = 488;
             // 
             // PicNhanVien
             // 

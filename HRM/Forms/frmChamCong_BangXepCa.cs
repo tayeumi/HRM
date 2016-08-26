@@ -1192,7 +1192,7 @@ namespace HRM.Forms
                         }
                         else if (dl[i].ToString().Trim().Length==0)
                         {
-                            gridItemDetail.SetRowCellValue(gridItemDetail.FocusedRowHandle, gridItemDetail.Columns["D" + (i + 1).ToString()], "HC2");
+                            gridItemDetail.SetRowCellValue(gridItemDetail.FocusedRowHandle, gridItemDetail.Columns["D" + (i + 1).ToString()], "HC1");
                         }
                         else if (dl[i].ToString().Trim().ToLower() == "tđ")
                         {
@@ -1204,7 +1204,7 @@ namespace HRM.Forms
                         }
                         else if (dl[i].ToString().Trim().ToLower() == "lm")
                         {
-                            gridItemDetail.SetRowCellValue(gridItemDetail.FocusedRowHandle, gridItemDetail.Columns["D" + (i + 1).ToString()], "HC2");
+                            gridItemDetail.SetRowCellValue(gridItemDetail.FocusedRowHandle, gridItemDetail.Columns["D" + (i + 1).ToString()], "HC1");
                         }
                         else if (dl[i].ToString().Trim().ToLower() == "pn")
                         {
